@@ -15,6 +15,13 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            string a="salut";
+            MessageBox.Show(a);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
